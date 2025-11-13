@@ -195,7 +195,7 @@ updateButtons();
 // 4. Deploy as a web app and copy the URL
 // 5. Replace 'YOUR_GOOGLE_SCRIPT_URL_HERE' below with your deployment URL
 
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyN0uNqQA5EPjPvmzsFuFhz6g1HBrYPv3JPYSZVAlHRhcrKh3Eqw_H8Sx40tvNLNAZQ/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzzHdIRi63Mfj-vjm5ktToxWFfr-qdQdgUhve5GUVrXJlrlrP-dxBl31yuC8MhuZA1X/exec';
 
 async function submitToGoogleSheets(data) {
     // Show loading state
@@ -507,5 +507,6 @@ SETUP INSTRUCTIONS:
 10. Paste it in the GOOGLE_SCRIPT_URL variable above (replace 'YOUR_GOOGLE_SCRIPT_URL_HERE')
 11. Authorize the script when prompted
 */
+
 
 
